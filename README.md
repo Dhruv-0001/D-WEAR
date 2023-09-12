@@ -5,7 +5,8 @@ APP.JS
 D-WEAR is a responsive full eccomerce website
 This code is a React application that uses the React Router library to handle client-side routing. It defines several routes for different pages of the application, such as the home page, about page, shop page, contact page, login page, signup page, forgot password page, cart page, checkout page, blog page, and product details page.
 
-dist\assets\Website.png
+![Website](https://github.com/Dhruv-0001/D-WEAR/assets/109892892/738a42c3-9b56-455b-a057-d83c7cf2ddcc)
+
 
 The
 App
