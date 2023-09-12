@@ -1,40 +1,43 @@
 # D-WEAR
+
 APP.JS
 
 D-WEAR is a responsive full eccomerce website
 This code is a React application that uses the React Router library to handle client-side routing. It defines several routes for different pages of the application, such as the home page, about page, shop page, contact page, login page, signup page, forgot password page, cart page, checkout page, blog page, and product details page.
 
-The 
+dist\assets\Website.png
+
+The
 App
- component is the main component that renders the application. It uses the 
+component is the main component that renders the application. It uses the
 BrowserRouter
- component to set up the routing system and the 
+component to set up the routing system and the
 Routes
- component to define the different routes.
+component to define the different routes.
 
-Each route is defined using the 
+Each route is defined using the
 Route
- component, which takes a 
+component, which takes a
 path
- prop and a 
+prop and a
 element
- prop. The 
+prop. The
 path
- prop specifies the URL path for the route, and the 
+prop specifies the URL path for the route, and the
 element
- prop specifies the component to render when the route is matched.
+prop specifies the component to render when the route is matched.
 
-The 
+The
 Layout
- component is a common component that is rendered around each page of the application. It contains the common elements such as the header, footer, and navigation menu.
+component is a common component that is rendered around each page of the application. It contains the common elements such as the header, footer, and navigation menu.
 
-The 
+The
 ScrollToTop
- component is a custom component that is used to scroll to the top of the page when the user navigates to a new page.
+component is a custom component that is used to scroll to the top of the page when the user navigates to a new page.
 
-The 
+The
 ShopContext
- component is a custom context that is used to share data between different components in the application.
+component is a custom context that is used to share data between different components in the application.
 
 Overall, this code sets up a basic React application with client-side routing and a common layout component.
 
@@ -79,7 +82,7 @@ We have several examples on the website. Here is the first one to get you starte
 import { createRoot } from 'react-dom/client';
 
 function HelloMessage({ name }) {
-  return <div>Hello {name}</div>;
+return <div>Hello {name}</div>;
 }
 
 const root = createRoot(document.getElementById('container'));
@@ -101,4 +104,3 @@ Deployment-url = https://d-wear-dhruvtyagi.netlify.app/
 
 Good First Issues
 To help you get your feet wet and get you familiar with our contribution process, we have a list of good first issues that contain bugs that have a relatively limited scope. This is a great place to get started.
-
