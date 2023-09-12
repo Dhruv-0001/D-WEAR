@@ -1,7 +1,7 @@
-# apneck
+# D-WEAR
 APP.JS
 
-Apneck is a responsive full eccomerce website
+D-WEAR is a responsive full eccomerce website
 This code is a React application that uses the React Router library to handle client-side routing. It defines several routes for different pages of the application, such as the home page, about page, shop page, contact page, login page, signup page, forgot password page, cart page, checkout page, blog page, and product details page.
 
 The 
@@ -97,10 +97,8 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 Contributing Guide
 Read our contributing guide to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
 
-Deployment-url = https://a-pneck-4cvbvszed-eclarkhalid.vercel.app
+Deployment-url = https://d-wear-dhruvtyagi.netlify.app/
 
 Good First Issues
 To help you get your feet wet and get you familiar with our contribution process, we have a list of good first issues that contain bugs that have a relatively limited scope. This is a great place to get started.
 
-License
-React is MIT licensed.
